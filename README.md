@@ -8,6 +8,7 @@
 [coverage-url]: https://codecov.io/github/rusty1s/pytorch_geometric?branch=master
 [contributing-image]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
 [contributing-url]: https://github.com/rusty1s/pytorch_geometric/blob/master/CONTRIBUTING.md
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/henrymartin1/pytorch_geometric/master)
 
 <p align="center">
   <img width="40%" src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/source/_static/img/pyg_logo_text.svg?sanitize=true" />
